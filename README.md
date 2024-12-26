@@ -1,4 +1,5 @@
-# Remember Me: simple game for kids to match pairs
+# Remember Me: simple game for kids to match pairs.
+I have used Reactjs and TailwindCSS for designing the app. There is a timer which runs backwards. The user wins when all the matching pair cards are open within the timer limit.
 
 ## Features
 
